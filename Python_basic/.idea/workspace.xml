@@ -37,7 +37,58 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Python.01_python_datatype">
+    <configuration name="01_python_datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_python_datatype.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_python_control_statement" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="Python_basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_python_control_statement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_python_datatype" />
+        <item itemvalue="Python.02_python_control_statement" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,11 +113,61 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="118" key="#01_python_datatype" timestamp="1596375478319">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="526" y="118" key="#01_python_datatype/0.23.1680.961@0.23.1680.961" timestamp="1596375478319" />
+    <state x="526" y="118" key="#02_python_control_statement" timestamp="1596375601014">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="526" y="118" key="#02_python_control_statement/0.23.1680.961@0.23.1680.961" timestamp="1596375601014" />
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596375406153">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1596375406153" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom" timestamp="1597385014231">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1596378616234" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1597385014231" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1596432571260" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1596432416911" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center" timestamp="1597385014230">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1596378616234" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1597385014230" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1596432571259" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1596432416910" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left" timestamp="1597385014229">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1596378616233" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1597385014229" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1596432571259" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1596432416909" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right" timestamp="1597385014230">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1596378616234" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1597385014230" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1596432571259" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1596432416910" />
+    <state x="341" y="142" key="SettingsEditor" timestamp="1596376179802">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="341" y="142" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1596376179802" />
     <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1596006184402">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1596006184402" />
+    <state x="628" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597384611600">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="628" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.961@0.23.1680.961" timestamp="1596375411699" />
+    <state x="628" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.963@0.23.1680.963" timestamp="1597384611600" />
   </component>
 </project>
